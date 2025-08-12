@@ -1,0 +1,16 @@
+{
+  "name": "prueba-tecnica-evolve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/scraper.js",
+  "scripts": {
+    "scrape": "node src/scraper.js",
+    "start": "live-server public"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "author": "Jesus Daniel Uribe Gordillo",
+  "license": "MIT"
+}
